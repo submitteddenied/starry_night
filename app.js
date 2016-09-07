@@ -4,7 +4,7 @@ var MAX_CONSTELLATION_WIDTH = WIDTH * 0.2, MAX_CONSTELLATION_HEIGHT = HEIGHT * 0
 var MAG_BASE = 1, MAG_MULT = 0.15;
 var COLORS = {
   sky: "rgb(0,0,0)",
-  star: "rgb(255,255,255)"
+  star: "rgb(255,255,128)"
 };
 
 // [0, max)
